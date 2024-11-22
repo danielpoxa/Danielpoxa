@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou daniel passos</h1>
+<h1 align="center"> Sobre mim !!</h1>
 <h3 align="center">Oi,sou Daniel,técnico em informática, formado no senac -MG,sou músico e adoro a área de computação e dá música .
 Procuro sempre está buscar melhorias e buscando mais conhecimentos,quero contribuir e realizar um trabalho com qualidade na equipe. Espero poder está somando para juntos estarmos avançando.</h3>
 
